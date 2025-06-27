@@ -46,4 +46,5 @@ Thanmai, “Botany-VQA: Visual Question Answering Dataset for Oxford 102 Flowers
 
 ##  Contact
 
-For questions or collaboration, contact: [your-email@example.c
+For questions or collaboration, contact: thanmayofficials@gmail.com
+
