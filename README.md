@@ -1,4 +1,5 @@
 # Botany-VQA Dataset
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Botany-VQA** is a Visual Question Answering dataset adapted from the Oxford 102 Flowers dataset. It supports research in domain-specific, low-resource VQA tasks.
 
@@ -40,9 +41,9 @@ This dataset is released under the [Creative Commons Attribution 4.0 License (CC
 If you use this dataset, please cite:
 
 ```
-[Your Name], “Botany-VQA: Visual Question Answering Dataset for Oxford 102 Flowers,” Zenodo, 2024. [Online]. Available: https://doi.org/xxxxx
+Thanmai, “Botany-VQA: Visual Question Answering Dataset for Oxford 102 Flowers,” Zenodo, 2024. [Online]. Available: https://doi.org/xxxxx
 ```
 
 ##  Contact
 
-For questions or collaboration, contact: [your-email@example.com]
+For questions or collaboration, contact: [your-email@example.c
