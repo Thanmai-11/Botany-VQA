@@ -69,5 +69,5 @@ This dataset is released under the [Creative Commons Attribution 4.0 License (CC
 If you use this dataset, please cite:
 
 ```
-Thanmai, “Botany-VQA: Visual Question Answering Dataset for Oxford 102 Flowers,” Zenodo, 2024. [Online]. Available: https://doi.org/xxxxx
+Thanmai, “Botany-VQA: Visual Question Answering Dataset for Oxford 102 Flowers,” Zenodo, 2024. [Online]. Available: https://doi.org/10.5281/zenodo.15757916
 ```
